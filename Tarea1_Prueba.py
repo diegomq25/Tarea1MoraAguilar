@@ -1,3 +1,8 @@
+# para realizar el test se debe descargar pytest en la carpeta contenedora
+# y despues dirigirse en la consola de comandos a la direccion de la carpeta
+# posteriormente se escribe en la consola "pytest Tarea1_Prueba.py"
+
+
 import pytest
 from Tarea1 import check_char, caps_switch  # tilizar funciones otros programas
 
